@@ -1,6 +1,8 @@
 Revision history for Template-Plugin-Path-Tiny
 
 {{$NEXT}}
+  [Documentation]
+  - Added INSTALL file to the distribution.
 
 v0.1.0    2018-05-04 09:07:42+01:00 Europe/London
 - Initial release.
