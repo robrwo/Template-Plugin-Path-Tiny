@@ -1,3 +1,4 @@
 Template-Plugin-Path-Tiny-*
 .build/
 cpanfile.snapshot
+local/
