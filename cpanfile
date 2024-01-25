@@ -1,6 +1,7 @@
 requires "Moo" => "0";
 requires "Path::Tiny" => "0";
 requires "Types::Standard" => "0";
+requires "Template::Plugin" => "0";
 requires "namespace::autoclean" => "0";
 
 on 'test' => sub {
